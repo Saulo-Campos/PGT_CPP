@@ -12,7 +12,17 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\include",
+    "\\lib",
+    "\\out",
+    "\\src",
+    "\\src\\controle",
+    "\\src\\DAO",
+    "\\src\\DAO\\Scripts",
+    "\\src\\visao\\modulo\\pessoa",
+    "\\src\\visao\\modulo\\saude"
   ],
+  "SelectedNode": "\\src\\DAO\\Conexao.cpp",
   "PreviewInSolutionExplorer": false
 }
