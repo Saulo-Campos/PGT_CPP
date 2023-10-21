@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/saulo/source/repos/PGT_CPP/out/build/x64-debug/CMakeFiles/PGT_CPP.dir/embed.manifest"
